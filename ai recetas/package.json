@@ -1,0 +1,20 @@
+{
+  "name": "ai-recetas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cohere-ai": "7.10.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "llama": "^2.1.13",
+    "openai": "^4.51.0",
+    "url-polyfill": "^1.1.12"
+  }
+}
